@@ -1,4 +1,6 @@
 # KnightOS
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FKnightOS.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FKnightOS?ref=badge_shield)
+
 
 KnightOS is a third-party operating system for TI calculators. It provides a
 passable Unix-like system for calculators. KnightOS is built on top of [the
@@ -77,3 +79,7 @@ You can also subscribe to our [mailing list](http://lists.knightos.org/).
 To report bugs, please create [a GitHub issue](https://github.com/KnightOS/KnightOS/issues/new) or contact us on IRC.
 
 If you'd like to contribute to the project, please see the [contribution guidelines](http://www.knightos.org/contributing).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FKnightOS.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FKnightOS?ref=badge_large)
